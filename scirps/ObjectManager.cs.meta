@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 54ecc1a0cd8264d418efee6200e2e3bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poolManager: {instanceID: 0}
+  - currentPreview: {instanceID: 0}
+  - transparentMaterial: {fileID: 2100000, guid: e0fc2454921656e4bb985c02cd65675e, type: 2}
+  - normalMaterial: {instanceID: 0}
+  - previewLine: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
